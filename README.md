@@ -4,7 +4,9 @@ I'm a web front-end developer with a primary focus on JavaScript, and I particul
 I have a keen interest in the swiftly evolving societal culture and strive to create exceptional and enjoyable services.
 <br/>
 <br/>
-#**💪Skills**
+
+### **💪Skills**
+
 <div style="display:flex">
   <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/>
